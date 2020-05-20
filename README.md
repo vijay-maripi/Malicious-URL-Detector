@@ -13,9 +13,10 @@ By employing learning algorithms, our scheme achieves better performance on gene
 ### Steps to Use Malicious Url Detector
 
 ```
-Step-1: Clone the github repository using the command "git clone"
+Step-1: Clone the github repository using the command "git clone https://github.com/vijay-maripi/Malicious-URL-Detector.git"
 Step-2: Change the directory to Malicious-URL-Detector using the command "cd Malicious-URL-Detector/"
 Step-3: Install requirements for  Malicious-URL-Detector using the command "pip install -r requirements.txt"
 Step-4: Now your good to launch the application run gui.py using the command "python gui.py"
 Step-5: (Optional) If you get any errors during code execution feel free to browse the errors.
 ```
+#### Feel free to reproduce the work, play and learn with codes.
