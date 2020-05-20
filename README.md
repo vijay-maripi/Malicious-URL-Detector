@@ -19,4 +19,7 @@ Step-3: Install requirements for  Malicious-URL-Detector using the command "pip 
 Step-4: Now your good to launch the application run gui.py using the command "python gui.py"
 Step-5: (Optional) If you get any errors during code execution feel free to browse the errors.
 ```
+#### Note: 
+1. you need to be connected to internet while running the code, because features of URL are collected from online.
+2. If you get any error while redirecting to the google chrome, change the path of the chrome in "gui.py code" according to                your system chrome path 
 #### Feel free to reproduce the work, play and learn with codes.
